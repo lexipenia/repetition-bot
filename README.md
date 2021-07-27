@@ -10,3 +10,13 @@ The true significance of this bot lies in the generation and insertion of these 
 ```
 pip install tweepy
 ```
+
+## Unscientific Postscript
+
+The version of this bot running at [@Constant_in_ius](https://twitter.com/Constant_in_ius) no longer uses tweepy. Twitter repeatedly blocked its API key, would unblock it at my request, then block it again – until they stopped responding and left it mute.
+
+I enjoyed the irony of this dynamic, though am disappointed it did not conclude in my (bot's) favour.
+
+The current bot controls an automated instance of Chrome via Selenium, avoiding the API altogether. I hope this will prove somewhat more resilient to attempts to shut it down, if only because it may emulate humanity more passably.
+
+As a gesture of goodwill towards Twitter, I am not publishing the code of the new bot, lest marketeers direct it towards malicious purposes, or whatever they're afraid of.
