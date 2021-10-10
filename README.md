@@ -19,4 +19,4 @@ I enjoyed the irony of this dynamic, though am disappointed it did not conclude 
 
 The current bot controls an automated instance of Chrome via Selenium, avoiding the API altogether. I hope this will prove somewhat more resilient to attempts to shut it down, if only because it may emulate humanity more passably.
 
-As a gesture of goodwill towards Twitter, I am not publishing the code of the new bot, lest marketeers direct it towards malicious purposes, or whatever they're afraid of.
+The new bot is here: https://github.com/lexipenia/repetition-bot-2
